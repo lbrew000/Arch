@@ -1,1 +1,1 @@
-yay -S --needed --noconfirm --norebuild > packages.list
+yay -S --needed --noconfirm --norebuild > arch-pkgs/packages.list
