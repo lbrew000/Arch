@@ -1,1 +1,1 @@
-yay -S --needed --noconfirm --norebuild > pkgs.list
+yay -S --needed --noconfirm --norebuild > packages.list
